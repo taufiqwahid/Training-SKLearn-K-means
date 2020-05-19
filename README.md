@@ -1,2 +1,2 @@
-# Training-SKLearn-K-means
-using the K-Means Clustering method to classify data, in this case using fictional mall visitor data
+# Training-SKLearn-K-means method Elbow
+use the Elbow method in the K-Means Clustering library to classify data, in this case using fiction mall visitor data
